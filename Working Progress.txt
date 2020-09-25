@@ -1,0 +1,2 @@
+[*]Buat image picker
+[*]Tambah di Android Manifest di dalam tag application {android:requestLegacyExternalStorage="true"}
